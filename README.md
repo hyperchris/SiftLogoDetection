@@ -13,4 +13,4 @@ Detect a logo in an image with SIFT features
 
 ## How to Use
 - Compile the cpp file with 'cmake .' and 'make'
-- Run: $ ./sift [logo_path] [test_image_path_1] .. [test_image_path_n]
+- Run: "$ ./sift [logo_path] [test_image_path_1] .. [test_image_path_n]"
